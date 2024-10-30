@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Materials/Fonts/Arabic Naskh SDF.asset
+Assets/Materials/Fonts/Arabic Naskh SDF.asset.meta
+Assets/Materials/Fonts/Arabic Naskh SDF - Variant 1.asset
+Assets/Materials/Fonts/Arabic Naskh SDF - Variant 1.asset.meta
