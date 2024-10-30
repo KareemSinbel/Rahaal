@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Test.uss?fileID=7433441132597879392&amp;guid=af446df916b9c694b94cf3c78bdf04cf&amp;type=3#Test" />
+    <engine:VisualElement style="flex-grow: 1; height: 204px;">
+        <engine:Label text="Label" style="height: 370px; font-size: 80px;" />
+        <engine:Label text="لعبــة جـــد يــدة" language-direction="RTL" name="Label" class="Label" style="height: 199px; font-size: 80px; -unity-font-definition: url(&quot;project://database/Assets/Resources/Fonts%20&amp;%20Materials/Arabic%20Naskh%20SDF.asset?fileID=11400000&amp;guid=5de3e332c2030a94695ce89b21cb009f&amp;type=2#Arabic Naskh SDF&quot;); color: rgb(255, 255, 255); -unity-text-align: upper-center; width: 730px;" />
+    </engine:VisualElement>
+</engine:UXML>

@@ -1,0 +1,4 @@
+.Label {
+    -unity-text-generator: advanced;
+    font-size: 100px;
+}
